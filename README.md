@@ -7,7 +7,7 @@ Background info: https://burk.io/2020/making-a-userscript-for-micro-blog
 ## Changes
 
 
-**2020.05.13.13**
+**2020.05.13.14**
 - Changed text input background color from black to #131313
 - Changed 'plans' popover colors
 - Post count color '0-140 chars' updated to blue
