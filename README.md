@@ -7,9 +7,10 @@ Background info: https://burk.io/2020/making-a-userscript-for-micro-blog
 ## Changes
 
 **2020.05.13.5**
-- Changed User Name font weight from 700 to 600
-- Updates to "Posts" page
-    - Fixed table background color on "Posts" page
+- Changed User Name font weight from 700 to 600.
+- Updates to "Posts" page.
+    - Fixed table background color on "Posts" page.
+- Update text contrasting colors so they meet WCAG AAA standard for for accessible text.
 
 **2020.05.11.1**
 - Initial release.
