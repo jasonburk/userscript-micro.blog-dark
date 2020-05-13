@@ -118,6 +118,10 @@
 	".account_bar_hostname {",,
 	"    color: #fd9926;",
 	"}",
+    "",
+	".popover {",,
+	"    background-color: #202020;",
+	"}",
 ].join("\n");
 if (typeof GM_addStyle != "undefined") {
 	GM_addStyle(css);
