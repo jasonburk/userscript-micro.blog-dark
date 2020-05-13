@@ -9,7 +9,7 @@
 // @include       http://*.micro.blog/*
 // @include       https://*.micro.blog/*
 // @run-at        document-start
-// @version       2020.5.13.5
+// @version       2020.5.13.13
 // ==/UserScript==
 (function() {var css = [
 	".post_username {",
@@ -80,12 +80,20 @@
 	"}",
 	"",
 	".CodeMirror {",
-	"    background-color: black;",
+	"    background-color: #131313;",
 	"    color: white;",
 	"}",
 	"",
 	".posting_chars_twitter {",
+	"    color: #bbe1fa;",
+	"}",
+	"",
+    ".posting_chars_normal {",
 	"    color: white;",
+	"}",
+	"",
+    ".posting_chars_error {",
+	"    color: #fd9926;",
 	"}",
 	"",
 	".highlight {",
