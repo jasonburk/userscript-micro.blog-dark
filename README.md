@@ -35,4 +35,4 @@ Background info: https://burk.io/2020/making-a-userscript-for-micro-blog
 
 
 **Screenshot from version 2020.05.14.05**
-![Screenshot from version 2020.05.14.05]https://github.com/jasonburk/macrodungeon/blob/master/MacroDungeonLogo.png
+![Screenshot from version 2020.05.14.05](https://github.com/jasonburk/macrodungeon/blob/master/MacroDungeonLogo.png)
