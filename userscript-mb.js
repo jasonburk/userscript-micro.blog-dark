@@ -9,7 +9,7 @@
 // @include       http://*.micro.blog/*
 // @include       https://*.micro.blog/*
 // @run-at        document-start
-// @version       2020.5.13.13
+// @version       2020.05.14.01
 // ==/UserScript==
 (function() {var css = [
 	".post_username {",
@@ -115,12 +115,24 @@
 	"    background-color: #282a36;",
 	"}",
 	"",
-	".account_bar_hostname {",,
+	".account_bar_hostname {",
 	"    color: #fd9926;",
 	"}",
-    "",
-	".popover {",,
+	"",
+	".popover {",
 	"    background-color: #202020;",
+	"}",
+	"",
+	".CodeMirror-cursor {",
+	"border-left: 2px solid #fd9926; !important",
+	"}",
+	"",
+	".post_selected {",
+	"background-color: #202020;",
+	"}",
+	"",
+	".menu_publish_alert {",
+	"background-color: #282a36 ;",
 	"}",
 ].join("\n");
 if (typeof GM_addStyle != "undefined") {

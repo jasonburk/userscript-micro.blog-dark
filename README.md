@@ -7,6 +7,11 @@ Background info: https://burk.io/2020/making-a-userscript-for-micro-blog
 ## Changes
 
 
+**2020.05.14.01**
+- Update background color for publish alert on post update page.
+- Update selected post background color.
+- Updated cursor input color from 1px black to 2px orange
+
 **2020.05.13.13**
 - Changed text input background color from black to #131313
 - Changed 'plans' popover colors
