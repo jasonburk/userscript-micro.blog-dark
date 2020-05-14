@@ -7,6 +7,11 @@ Background info: https://burk.io/2020/making-a-userscript-for-micro-blog
 ## Changes
 
 
+**2020.05.14.05**
+- 'Plans' popup arrow color changed. Missed it last time.
+- Updated subscriptions card form background
+- Changed buttons from white to blue
+
 **2020.05.14.01**
 - Update background color for publish alert on post update page.
 - Update selected post background color.
