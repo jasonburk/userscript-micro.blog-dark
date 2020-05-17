@@ -41,4 +41,4 @@ Background info: https://burk.io/2020/making-a-userscript-for-micro-blog
 
 
 **Screenshot from version 2020.05.17.01**
-![Screenshot from version 2020.05.17.01](https://github.com/jasonburk/userscript-micro.blog-dark/blob/master/userscript-mb-example.png)
+![Screenshot from version 2020.05.17.01](https://github.com/jasonburk/userscript-micro.blog-dark/blob/master/userscript-mb-example-screenshot.png)
