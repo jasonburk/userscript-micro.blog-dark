@@ -7,6 +7,12 @@ Background info: https://burk.io/2020/making-a-userscript-for-micro-blog
 ## Changes
 
 
+
+**2020.05.17.01**
+- Increased size of user avatar images. Adjusted spacing.
+- New mentions text upped to 700 and changed color to stand out more.
+- Small shadow added to timeline info box for separation.
+
 **2020.05.14.05**
 - 'Plans' popup arrow color changed. Missed it last time.
 - Updated subscriptions card form background

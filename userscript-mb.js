@@ -9,7 +9,7 @@
 // @include       http://*.micro.blog/*
 // @include       https://*.micro.blog/*
 // @run-at        document-start
-// @version       2020.05.14.05
+// @version       2020.05.17.01
 // ==/UserScript==
 (function() {var css = [
 	".post_username {",
@@ -44,9 +44,12 @@
 	"}",
 	"",
 	".alert-info {",
-	"    border-color: #bce8f1;",
-	"    color: white;",
-	"    background-color: #282a36;",
+	"border-color: #bce8f1;",
+	"color: white;",
+	"background-color: #282a36;",
+    "-webkit-box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.75);",
+    "-moz-box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.75);",
+    "box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.75);",
 	"}",
 	"",
 	".post_time a {",
@@ -148,6 +151,23 @@
     "background-color: #337ab7;",
     "border-color: #2e6da4;",
     "}",
+    "",
+    ".post_avatar img {",
+    "border-radius: 30px;",
+    "width: 60px;",
+    "height: 60px;",
+    "}",
+    "",
+    ".post_avatar {",
+    "padding-right: 15px;",
+    "}",
+    "",
+    ".mentions_new {",
+    "font-weight: 700;",
+    "color: #fd9926;",
+    "",
+
+
 ].join("\n");
 if (typeof GM_addStyle != "undefined") {
 	GM_addStyle(css);
