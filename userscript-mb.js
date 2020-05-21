@@ -6,10 +6,8 @@
 // @homepage      https://burk.io/files/userscript-mb.js
 // @include       http://micro.blog/*
 // @include       https://micro.blog/*
-// @include       http://*.micro.blog/*
-// @include       https://*.micro.blog/*
 // @run-at        document-start
-// @version       2020.05.17.01
+// @version       2020.05.20.01
 // ==/UserScript==
 (function() {var css = [
 	".post_username {",

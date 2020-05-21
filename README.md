@@ -7,6 +7,8 @@ Background info: https://burk.io/2020/making-a-userscript-for-micro-blog
 ## Changes
 
 
+**2020.05.20.01**
+- Removed the `https://*.micro.blog` wildcard so the stylesheet will not make changes to individual's blogs. Sorry about that!
 
 **2020.05.17.01**
 - Increased size of user avatar images. Adjusted spacing.
