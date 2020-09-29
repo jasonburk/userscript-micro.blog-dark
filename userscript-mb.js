@@ -7,7 +7,7 @@
 // @include       http://micro.blog/*
 // @include       https://micro.blog/*
 // @run-at        document-start
-// @version       2020.05.20.01
+// @version       2020.09.29.03
 // ==/UserScript==
 (function() {var css = [
 	".post_username {",
@@ -54,10 +54,10 @@
 	"    color: #d9d9d9;",
 	"}",
 	"",
-	".container > h1 {",
+	"h1.header_logo {",
 	"    background-image: url(\'https://burk-io-blog.s3.wasabisys.com/image/microblog-icon.png\');",
-	"    background-size: 64px 64px;",
-	"    height: 64px;",
+	"    background-size: 30px 30px;",
+	"    padding-left: 35px",
 	"}",
 	"",
 	".mentions_bar {",
@@ -163,6 +163,14 @@
     ".mentions_new {",
     "font-weight: 700;",
     "color: #fd9926;",
+    "",
+    ".sidebar .manage a {",
+    "color: #f8f8f2;",
+    "}",
+    "",
+    ".sidebar .extras a {",
+    "color: #f8f8f2;",
+    "}",
     "",
 
 

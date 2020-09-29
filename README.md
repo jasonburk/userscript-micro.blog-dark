@@ -7,6 +7,9 @@ Background info: https://burk.io/2020/making-a-userscript-for-micro-blog
 ## Changes
 
 
+**2020.09.29.03**
+- Initial updates to support Micro.blog 2.0
+
 **2020.05.20.01**
 - Removed the `https://*.micro.blog` wildcard so the stylesheet will not make changes to individual's blogs. Sorry about that!
 
