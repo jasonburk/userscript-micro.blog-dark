@@ -7,6 +7,13 @@ Background info: https://burk.io/2020/making-a-userscript-for-micro-blog
 ## Changes
 
 
+**2020.09.30.09**
+- Added some breathing room to the top of the page
+- Rewrote / Simplified the script to be more human readable
+- Update color scheme for sidebar section
+- Added horizontal separators to sidebar
+- Vertical sidebar separator 1px >> 2px
+
 **2020.09.29.03**
 - Initial updates to support Micro.blog 2.0
 
