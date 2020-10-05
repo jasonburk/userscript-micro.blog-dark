@@ -1,5 +1,5 @@
 # userscript-micro.blog-dark
-Browser userscript for an alternate dark color palette
+Browser userscript for an alternate dark color palette  
 Now updated to support Micro.blog 2.0
 
 
