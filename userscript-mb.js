@@ -7,7 +7,7 @@
 // @include       http://micro.blog/*
 // @include       https://micro.blog/*
 // @run-at        document-start
-// @version       2020.09.30.09
+// @version       2021.04.08.01
 // @grant         GM_addStyle
 // ==/UserScript==
 
@@ -136,7 +136,7 @@ h1.header_logo {
 }
 
 .menu_publish_alert {
-	background-color: #282a36 ;
+	background-color: #282a36;
 }
 
 .popover.bottom > .arrow::after {
@@ -193,7 +193,15 @@ h1.header_logo {
 }
 
 .content_container {
-	border-left: 2px solid #f8f8f2
+	border-left: 2px solid #f8f8f2;
+}
+
+.curator_alt {
+	color: #ffffff;
+}
+
+.curator_bio {
+	color: #ffffff;
 }
 
 `);

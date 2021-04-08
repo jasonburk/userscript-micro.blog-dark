@@ -7,6 +7,8 @@ Background info: https://burk.io/2020/making-a-userscript-for-micro-blog
 
 ## Changes
 
+**2021.04.08.01**
+- Update for Curator backend text colors. (does not impact standard users)
 
 **2020.09.30.09**
 - Added some breathing room to the top of the page
