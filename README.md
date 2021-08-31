@@ -1,4 +1,8 @@
 # userscript-micro.blog-dark
+
+> Hey everyone! Just a heads up that the script is pretty broken right now! The recently released Micro.blog "official" dark mode and this script do not play well together. If you computer is set to use light mode, this script _should be_ ok, but I have not 100% checked it yet. More to come..
+
+
 Browser userscript for an alternate dark color palette  
 Now updated to support Micro.blog 2.0
 
